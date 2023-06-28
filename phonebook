@@ -45,7 +45,6 @@ def lerVetorDados(vetN , vetT):
         vetN.append(nome)
         vetT.append(telefone)
         continuar = desejaContinuar()
-    
     return (vetN , vetT)
 
 
